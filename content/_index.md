@@ -8,9 +8,9 @@ Hola ✌️  soy el explorer Hipolito Mendoza y este es mi blog personal donde c
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas para este proyecto son:
--Manejar las herramientas Git y GitHub
--Crear proyectos con mis conocimientos Front-End
--Aprender Node.js
--Adquirir conocimientos Back-End
+- Manejar las herramientas Git y GitHub.
+- Crear proyectos con mis conocimientos Front-End.
+- Aprender Node.js.
+- Adquirir conocimientos Back-End.
 
 🚀
