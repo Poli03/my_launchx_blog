@@ -12,3 +12,5 @@ Estas son las herramientas de las cuales e aprendido en el camino:
 - Css
 - Javascript
 - Frameworks (Vue)
+
+Gracias por leer.
