@@ -18,16 +18,6 @@
     </item>
     
     <item>
-      <title>About me</title>
-      <link>https://poli03.github.io/my_launchx_blog/pages/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://poli03.github.io/my_launchx_blog/pages/about/</guid>
-      <description>Who am I Hola, aquí vas a leer un poco sobre mi 🤩
-Hipolito Mendoza Ramirez Originario de Villa Guerrero, Estado de Mexico sali de mi pueblo a estudiar en el Instituto Politecnico Nacional, Ingenieria en Comunicaciones y Electronica, en donde aprendi preogramcion orientada a objetos en C++, ahi surgio mi gusto por la programacion, por el temario de la carrera me aleje de la progrmacion en alto nivel. Ahora que acabe la carrera regrese a parende programacion, e innovacion me dio esta oportunidad por lo que me encuentro estudiando nuevamente lo que me gusta.</description>
-    </item>
-    
-    <item>
       <title>Cultura de un desarrolador de software</title>
       <link>https://poli03.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -35,6 +25,16 @@ Hipolito Mendoza Ramirez Originario de Villa Guerrero, Estado de Mexico sali de 
       <guid>https://poli03.github.io/my_launchx_blog/posts/intro/</guid>
       <description>Hola, paraq mi la cltura de un profecional del sofware se basa en:
  Aprendizaje constante. Trabajo en equipo. Respeto. Responsabilidad.  </description>
+    </item>
+    
+    <item>
+      <title>Sobre mi</title>
+      <link>https://poli03.github.io/my_launchx_blog/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://poli03.github.io/my_launchx_blog/pages/about/</guid>
+      <description>Quien soy Hola, aquí vas a leer un poco sobre mi 🤩
+Hipolito Mendoza Ramirez. Originario de Villa Guerrero, Estado de Mexico sali de mi pueblo a estudiar en el Instituto Politecnico Nacional, Ingenieria en Comunicaciones y Electronica, en donde aprendi preogramcion orientada a objetos en C++, ahi surgio mi gusto por la programacion, por el temario de la carrera me aleje de la progrmacion en alto nivel. Ahora que acabe la carrera regrese a parende programacion, e innovacion me dio esta oportunidad por lo que me encuentro estudiando nuevamente lo que me gusta.</description>
     </item>
     
   </channel>
