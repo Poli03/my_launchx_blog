@@ -1,16 +1,16 @@
 ---
-title: 'About me'
+title: 'Sobre mi'
 menu:
   main:
-    name: "AboutMe"
+    name: "sobre mi"
 ---
 
-## Who am I
+## Quien soy
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
 
-**Hipolito Mendoza Ramirez** Originario de Villa Guerrero, Estado de Mexico
+**Hipolito Mendoza Ramirez**. Originario de Villa Guerrero, Estado de Mexico
 sali de mi pueblo a estudiar en el Instituto Politecnico Nacional, 
 Ingenieria en Comunicaciones y Electronica, en donde aprendi preogramcion 
 orientada a objetos en C++, ahi surgio mi gusto por la programacion, por el temario 
