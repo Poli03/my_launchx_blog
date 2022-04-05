@@ -6,7 +6,7 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 
 Hola, paraq mi la cltura de un profecional del sofware se basa en:
 
--Aprendizaje constante
--Trabajo en equipo.
--Respeto
--Responsabilidad
+- Aprendizaje constante.
+- Trabajo en equipo.
+- Respeto.
+- Responsabilidad.
