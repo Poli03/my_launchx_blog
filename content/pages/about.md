@@ -9,13 +9,11 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+**Hipolito Mendoza Ramirez** Originario de Villa Guerrero, Estado de Mexico
+sali de mi pueblo a estudiar en el Instituto Politecnico Nacional, 
+Ingenieria en Comunicaciones y Electronica, en donde aprendi preogramcion 
+orientada a objetos en C++, ahi surgio mi gusto por la programacion, por el temario 
+de la carrera me aleje de la progrmacion en alto nivel.
+ Ahora que acabe la carrera regrese a parende programacion, e innovacion me dio esta 
+oportunidad por lo que me encuentro estudiando nuevamente lo que me gusta.
